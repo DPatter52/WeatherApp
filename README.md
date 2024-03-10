@@ -10,7 +10,7 @@ It allows the user to delete the search history so that when they refresh their 
 I decided to write this software specifically because when I first started coding, I made a weather app but using python. With that app all the information was made up and static, so I 
 wanted to make this one using JavaScript to make it more dynamic.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/cTa50FfM_I4)
 
 # Development Environment
 
