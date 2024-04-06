@@ -20,9 +20,6 @@ wanted to make this one using JavaScript to make it more dynamic.
 * Dotenv v16.4.5
 * Express v4.18.3
 * Node Fetch V3.3.2
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
